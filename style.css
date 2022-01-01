@@ -23,3 +23,9 @@ body {
     display: flex;
     gap: 32px;
 }
+
+.cabecalho-menu-item {
+    color: #471A01;
+    font-weight: 300;
+    font-size: 18px;
+}
