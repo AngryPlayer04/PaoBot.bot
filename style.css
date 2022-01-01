@@ -25,6 +25,7 @@ body {
 }
 
 .cabecalho-menu-item {
+    font-family: 'Roboto', sans-serif;
     color: #471A01;
     font-weight: 300;
     font-size: 18px;
@@ -42,15 +43,18 @@ body {
     justify-content: space-around;
 }
 .conteudo-principal-escrito {
+    gap: 32px;
     display: flex;
     flex-direction: column;
 }
 .conteudo-principal-titulo {
+    font-family: 'Roboto', sans-serif;
     font-weight: 400;
     font-size: 64px;
     color: #471A01;
 }
 .conteudo-principal-escrito-subtitulo {
+    font-family: 'Roboto', sans-serif;
     font-weight: 400;
     font-size: 24px;
     color: #471A01;
@@ -65,4 +69,8 @@ body {
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
     font-size: 24px;
+    color: #2F2325;
+}
+.conteudo-principal-imagem {
+    height: 430px;
 }
