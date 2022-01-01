@@ -32,8 +32,9 @@ body {
 }
 
 .conteudo {
+    border-top: 0.6px solid #6d3909;
     margin-bottom: 48px;
-    border-top: o.6px solid #6d3909;
+    
 }
 
 .conteudo-principal {
