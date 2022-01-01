@@ -29,3 +29,19 @@ body {
     font-weight: 300;
     font-size: 18px;
 }
+
+.conteudo {
+    margin-bottom: 48px;
+    border-top: o.4px solid #D36500;
+}
+
+.conteudo-principal {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+.conteudo-principal-escrito {
+    display: flex;
+    flex-direction: column;
+}
