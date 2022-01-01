@@ -45,3 +45,24 @@ body {
     display: flex;
     flex-direction: column;
 }
+.conteudo-principal-titulo {
+    font-weight: 400;
+    font-size: 64px;
+    color: #471A01;
+}
+.conteudo-principal-escrito-subtitulo {
+    font-weight: 400;
+    font-size: 24px;
+    color: #471A01;
+}
+.conteudo-principal-escrito-botao {
+    background-color: #D36500;
+    width: 180px;
+    height: 60px;
+    border: none;
+    box-shadow: 8px 9px 8px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+}
