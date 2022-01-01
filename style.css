@@ -47,7 +47,7 @@ body {
     display: flex;
     flex-direction: column;
 }
-.conteudo-principal-titulo {
+.conteudo-principal-escrito-titulo {
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
     font-size: 64px;
@@ -70,4 +70,9 @@ body {
     font-weight: 400;
     font-size: 24px;
     color: #471A01;
+}
+
+.conteudo-secundario {
+    display: flex;
+    flex-direction: column;
 }
