@@ -43,7 +43,7 @@ body {
     justify-content: space-around;
 }
 .conteudo-principal-escrito {
-    gap: 32px;
+    gap: 28px;
     display: flex;
     flex-direction: column;
 }
@@ -70,6 +70,7 @@ body {
     font-weight: 400;
     font-size: 24px;
     color: #471A01;
+    
     text-align: center;
     text-decoration: none;
     cursor: pointer;
