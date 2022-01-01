@@ -70,6 +70,11 @@ body {
     font-weight: 400;
     font-size: 24px;
     color: #471A01;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    padding: 4px 2px;
 }
 
 .conteudo-principal-escrito-botao:hover {
