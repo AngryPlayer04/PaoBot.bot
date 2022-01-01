@@ -43,7 +43,7 @@ body {
     justify-content: space-around;
 }
 .conteudo-principal-escrito {
-    gap: 28px;
+    gap: 32px;
     display: flex;
     flex-direction: column;
 }
@@ -62,7 +62,7 @@ body {
 .conteudo-principal-escrito-botao {
     background-color: #D36500;
     width: 180px;
-    height: 40px;
+    height: 60px;
     border: none;
     box-shadow: 8px 9px 8px rgba(0, 0, 0, 0.25);
     border-radius: 30px;
@@ -70,7 +70,6 @@ body {
     font-weight: 400;
     font-size: 24px;
     color: #471A01;
-    
     text-align: center;
     text-decoration: none;
     cursor: pointer;
