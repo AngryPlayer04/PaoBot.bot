@@ -83,4 +83,16 @@ body {
 .conteudo-secundario-titulo {
     border-top: 0.6px solid #6d3909;
     padding-top: 48px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    color: #471A01;
+    margin-bottom: 16px;
+}
+
+.conteudo-secundario-paragrafo {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+    color: #471A01;
 }
