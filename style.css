@@ -72,6 +72,10 @@ body {
     color: #471A01;
 }
 
+.conteudo-principal-escrito-botao:hover {
+    background-color: rgba(236, 214, 196, 0.53);
+}
+
 .conteudo-secundario {
     display: flex;
     flex-direction: column;
