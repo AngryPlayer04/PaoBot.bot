@@ -31,6 +31,16 @@ body {
     font-size: 24px;
 }
 
+.cabecalho-item-menu2 {
+    font-family: 'Roboto', sans-serif;
+    color: #471A01;
+    font-weight: 300;
+    font-size: 24px;
+}
+.cabecalho-item-menu2:hover {
+    background-color: rgba(236, 214, 196, 0.53);
+}
+
 .conteudo {
     border-top: 0.6px solid #6d3909;
     margin-bottom: 48px;
