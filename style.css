@@ -117,7 +117,8 @@ body {
 }
 
 .rodape {
-    border-top: #471A01;
+    border-top: 0.6px solid #6d3909;
+    padding-top: 20px;
 }
 
 .trello {
