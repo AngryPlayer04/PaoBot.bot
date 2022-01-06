@@ -125,7 +125,7 @@ body {
 }
 .rodape-titulo {
     font-family: 'Roboto', sans-serif;
-    align-items: center;
+    align-items: top;
     font-weight: 400;
     font-size: 26px;
     color: #471A01;
