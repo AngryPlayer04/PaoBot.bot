@@ -111,6 +111,7 @@ body {
 
 .conteudo-secundario-paragrafo {
     font-family: 'Roboto', sans-serif;
+    align-items: center;
     font-weight: 300;
     font-size: 24px;
     color: #471A01;
