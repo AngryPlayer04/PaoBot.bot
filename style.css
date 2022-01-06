@@ -133,7 +133,8 @@ body {
 }
 
 .trello {
-    display: block;
+    display: flex;
+    align-items: center;
     border: none;
     border-radius: 10px;
     margin-bottom: 20px;
