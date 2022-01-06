@@ -119,6 +119,7 @@ body {
 
 .rodape {
     display: flex;
+    flex-direction: column;
     align-items: center;
     border-top: 0.6px solid #6d3909;
     padding-top: 20px;
