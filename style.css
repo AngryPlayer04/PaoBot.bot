@@ -122,7 +122,7 @@ body {
 }
 
 .trello {
-    display: flex;
+    display: block;
     border: none;
     border-radius: 10px;
 }
