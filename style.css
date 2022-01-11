@@ -42,6 +42,7 @@ body {
     -webkit-transition: color 1s;
     transition: color 1s;
     color: rgb(255, 226, 188);
+    border: none;
 }
 
 .conteudo {
