@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&family=Roboto:wght@300;400&display=swap');
 * {
     margin: auto;
     padding: 0;
@@ -60,7 +60,7 @@ body {
     flex-direction: column;
 }
 .conteudo-principal-escrito-titulo {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Mochiy Pop P One', sans-serif;
     font-weight: 400;
     font-size: 64px;
     color: #471A01;
