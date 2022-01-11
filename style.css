@@ -9,7 +9,7 @@
 
 body {
     font-size: 100%;
-    background: radial-gradient(80.9% 146.79% at 75.59% 28.26%, #FFFBA6 0%, #E68A00 58.72%, #C85502 100%);
+    background: radial-gradient(80.9% 146.79% at 75.59% 28.26%, #FFFBA6 0%, #CB6E00 58.72%);
 }
 .cabecalho {
     display: flex;
