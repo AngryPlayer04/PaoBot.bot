@@ -39,8 +39,8 @@ body {
     font-size: 24px;
 }
 .cabecalho-item-menu2:hover {
-    -webkit-transition: color 2s;
-    transition: color 2s;
+    -webkit-transition: color 1s;
+    transition: color 1s;
     color: rgb(255, 226, 188);
 }
 
