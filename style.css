@@ -39,7 +39,9 @@ body {
     font-size: 24px;
 }
 .cabecalho-item-menu2:hover {
-    background-color: rgba(236, 214, 196, 0.53);
+    -webkit-transition: color 2s;
+    transition: color 2s;
+    color: rgb(255, 226, 188);
 }
 
 .conteudo {
