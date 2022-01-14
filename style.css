@@ -12,7 +12,7 @@ body {
     
 }
 .cabecalho {
-    background: rgba(218, 105, 0, 0.7);
+    background: rgba(255, 123, 0, 0.767);
     display: flex;
     flex-direction: row;
     align-items: center;
