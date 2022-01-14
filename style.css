@@ -9,7 +9,7 @@
 
 body {
     font-size: 100%;
-    background: radial-gradient(80.9% 146.79% at 75.59% 28.26%, #FFFBA6 0%, #CB6E00 58.72%);
+    
 }
 .cabecalho {
     background: rgba(218, 105, 0, 0.7);
@@ -47,9 +47,13 @@ body {
 }
 
 .conteudo {
-    border-top: 0.6px solid #6d3909;
+    border-top: 0.6px solid #ff7b00c4;
     margin-bottom: 48px;
-    
+    background-color: #CB6E00;
+    background-image: radial-gradient(
+        circle at top right,
+        #FFFBA6 50%
+    );
 }
 
 .conteudo-principal {
