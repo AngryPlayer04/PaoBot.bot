@@ -52,6 +52,7 @@ body {
     background-color: #CB6E00;
     background-image: radial-gradient(
         circle at top right,
+        #ff8d02,
         #FFFBA6 50%
     );
 }
