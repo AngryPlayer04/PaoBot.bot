@@ -129,6 +129,7 @@ body {
 }
 
 .rodape {
+    background: linear-gradient(180deg, #FEF7A1 -117.4%, #CB6E01 76.33%);
     display: flex;
     flex-direction: column;
     align-items: center;
