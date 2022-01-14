@@ -9,7 +9,11 @@
 
 body {
     font-size: 100%;
-    
+    background-color: #CB6E00;
+    background-image: radial-gradient(
+        circle at top right,
+        #FFFBA6,
+        #ff8d02 60%
 }
 .cabecalho {
     background: linear-gradient(180deg, rgba(204, 98, 0, 0.7) 31.58%, rgba(255, 153, 0, 0.7) 128.07%);
@@ -49,11 +53,7 @@ body {
 .conteudo {
     border-top: 0.6px solid #ff7b00c4;
     margin-bottom: 48px;
-    background-color: #CB6E00;
-    background-image: radial-gradient(
-        circle at top right,
-        #FFFBA6,
-        #ff8d02 60%
+    
     );
 }
 
@@ -129,7 +129,7 @@ body {
 }
 
 .rodape {
-    background: linear-gradient(180deg, #FEF7A1 -117.4%, #CB6E01 76.33%);
+    
     display: flex;
     flex-direction: column;
     align-items: center;
