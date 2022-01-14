@@ -9,6 +9,7 @@
 
 body {
     font-size: 100%;
+    width: 1000vh;
     background-color: #CB6E00;
     background-image: radial-gradient(
         circle at top right,
