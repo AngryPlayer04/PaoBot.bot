@@ -134,7 +134,7 @@ body {
     flex-direction: column;
     align-items: center;
     padding-top: 5px;
-    
+    margin-bottom: auto
 }
 .rodape-escrito-titulo {
     padding-top: 15px ;
@@ -153,6 +153,6 @@ body {
     border: none;
     border-radius: 10px;
     padding: none;
-    margin-bottom: auto;
+    
 
 }
