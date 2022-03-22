@@ -58,7 +58,7 @@ body {
     justify-content: space-around;
     width: 130px;
     height: 45px;
-    margin: -130px 0 0 -50px;
+    margin: -130px -50px;
     transform: scale(1.6);
     border-radius: 5px;
     object-fit: cover;
