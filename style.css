@@ -57,9 +57,9 @@ body {
     align-items: rigth;
     justify-content: space-around;
     box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.25);
-    width: 170px;
+    width: 150px;
     height: 45px;
-    scale: 5;
+    scale: 15;
     border-radius: 5px;
     overflow: hidden;
     object-fit: cover;
