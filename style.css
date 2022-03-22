@@ -56,7 +56,7 @@ body {
     flex-direction: row;
     align-items: rigth;
     justify-content: space-around;
-    width: 167px;
+    width: 100%
     height: 46px;
     object-fit: cover;
     object-position: 80% 0;
