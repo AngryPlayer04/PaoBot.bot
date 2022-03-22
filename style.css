@@ -65,6 +65,7 @@ body {
 
 } 
 .cabecalho-item-menu3:hover {
+    cursor: pointer;
     -webkit-filter: blur(1px);
     filter: blur(1px);
 }
