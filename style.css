@@ -55,9 +55,9 @@ body {
 
 .user {
     display: flex;
+    flex-direction: row;
     align-items: center;
-    text-align: right;
-    gap: 32px;
+    justify-content: space-around;
 }
 
 .user-data {
