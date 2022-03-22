@@ -56,10 +56,10 @@ body {
     flex-direction: row;
     align-items: rigth;
     justify-content: space-around;
-    width: 80%;
-    height: 65px;
+    width: 195px;
+    height: 55px;
     object-fit: cover;
-    object-position: 195px 55px;
+    object-position: -80% -20%;
 } 
 
 .conteudo {
