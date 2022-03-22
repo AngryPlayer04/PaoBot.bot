@@ -57,7 +57,8 @@ body {
     align-items: rigth;
     justify-content: space-around;
     width: 195px;
-    height: 55px;
+    height: 52px;
+    overflow: hidden;
     object-fit: cover;
     object-position: -80% -20%;
 } 
