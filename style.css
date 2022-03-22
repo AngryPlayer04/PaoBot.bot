@@ -59,7 +59,7 @@ body {
     box-shadow: 0px 9px 8px rgba(0, 0, 0, 0.25);
     width: 195px;
     height: 52px;
-    scale: 2;
+    scale: 5;
     border-radius: 5px;
     overflow: hidden;
     object-fit: cover;
