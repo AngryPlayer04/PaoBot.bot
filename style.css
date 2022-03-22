@@ -58,13 +58,16 @@ body {
     justify-content: space-around;
     width: 130px;
     height: 45px;
-    margin: -130px -50px;
+    margin: -50px -130px;
     transform: scale(1.6);
     border-radius: 5px;
     object-fit: cover;
     object-position: -100% -80%;
 
 } 
+.cabecalho-item-menu3:hover {
+    
+}
 
 .conteudo {
     border-top: 0.6px solid #ff7b00c4;
