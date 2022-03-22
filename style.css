@@ -58,7 +58,6 @@ body {
     justify-content: space-around;
     width: 130px;
     height: 45px;
-    margin: -50px -130px;
     transform: scale(1.6);
     border-radius: 5px;
     object-fit: cover;
@@ -66,8 +65,8 @@ body {
 
 } 
 .cabecalho-item-menu3:hover {
-    -webkit-filter: blur(2px);
-    filter: blur(2px);
+    -webkit-filter: blur(1px);
+    filter: blur(1px);
 }
 
 .conteudo {
