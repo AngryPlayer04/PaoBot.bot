@@ -53,9 +53,9 @@ body {
 }
 .cabecalho-item-menu3 {
     display: flex;
-    flex-direction: row;
+    flex-direction: row-reverse;
     align-items: rigth;
-    justify-content: space-around;
+    justify-content: right;
     width: 100%;
     height: 90px;
 } 
