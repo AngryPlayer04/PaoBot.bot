@@ -32,12 +32,6 @@ body {
     gap: 32px;
 }
 
-.cabecalho-item-menu {
-    font-family: 'Roboto', sans-serif;
-    color: #FCF9FC;
-    font-weight: 300;
-    font-size: 20px;
-}
 
 .cabecalho-item-menu2 {
     font-family: 'Roboto', sans-serif;
