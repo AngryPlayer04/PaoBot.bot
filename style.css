@@ -58,13 +58,12 @@ body {
     border-radius: 5px;
     object-fit: cover;
     object-position: -90% -85%;
-    gap: 30px;
 
 } 
 .cabecalho-item-menu3:hover {
     cursor: pointer;
-    -webkit-filter: blur(1px);
-    filter: blur(1px);
+    -webkit-filter: blur(0.5px);
+    filter: blur(0.5px);
 }
 
 .conteudo {
