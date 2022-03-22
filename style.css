@@ -54,7 +54,6 @@ body {
 .cabecalho-item-menu3 {
     display: flex;
     flex-direction: row;
-    align-items: center;
     justify-content: space-between;
     width: 130px;
     height: 45px;
