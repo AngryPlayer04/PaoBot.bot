@@ -51,7 +51,16 @@ body {
     color: rgb(255, 226, 188);
     border: none;
 }
-.cabecalho-item-menu3 {
+
+
+.user {
+    display: flex;
+    align-items: center;
+    text-align: right;
+    gap: 32px;
+}
+
+.user-data {
     width: 130px;
     height: 45px;
     transform: scale(1.6);
@@ -60,7 +69,7 @@ body {
     object-position: -90% -85%;
 
 } 
-.cabecalho-item-menu3:hover {
+.user-data:hover {
     cursor: pointer;
     -webkit-filter: blur(0.5px);
     filter: blur(0.5px);
