@@ -61,7 +61,6 @@ body {
     height: 45px;
     scale: 15;
     border-radius: 5px;
-    overflow: hidden;
     object-fit: cover;
     object-position: -90% -30%;
 
