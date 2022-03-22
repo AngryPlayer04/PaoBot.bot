@@ -61,6 +61,7 @@ body {
     border-radius: 5px;
     object-fit: cover;
     object-position: -90% -85%;
+    gap: 30px;
 
 } 
 .cabecalho-item-menu3:hover {
