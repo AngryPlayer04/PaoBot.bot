@@ -65,8 +65,6 @@ body {
 } 
 .user-data:hover {
     cursor: pointer;
-    -webkit-filter: blur(0.5px);
-    filter: blur(0.5px);
 }
 
 .conteudo {
