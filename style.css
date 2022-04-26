@@ -21,8 +21,8 @@ body {
     display: flex;
     flex-direction: row;
     align-items:center;
-    justify-content: space-between;
-    padding: 10px;
+    justify-content: space-around;
+    padding: 30px;
 }
 
 .cabecalho-menu {
@@ -30,6 +30,7 @@ body {
     align-items: center;
     text-align: center;
     row-gap: 80px;
+    column-gap: 32px;
 }
 
 
