@@ -29,7 +29,7 @@ body {
     display: flex;
     align-items: center;
     text-align: center;
-    gap: 32px;
+    row-gap: 80px;
 }
 
 
