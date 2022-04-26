@@ -50,8 +50,8 @@ body {
 .user {
     display: flex;
     flex-direction: row;
-    align-items: center;
-    justify-content: space-around;
+    align-items: flex-end;
+    justify-content: right;
 }
 
 .user-data {
