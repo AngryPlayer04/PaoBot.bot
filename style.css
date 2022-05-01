@@ -57,9 +57,9 @@ body {
 }
 
 .user-data {
-    width: 171px;
-    height: 78px;
-    transform: scale(1.5);
+    width: 17px;
+    height: 45px;
+    
     object-fit: cover;
     object-position: -90% -85%;
     align-content: flex-start;
