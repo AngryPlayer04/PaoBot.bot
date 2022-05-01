@@ -55,7 +55,7 @@ body {
     align-items: center;
     justify-content: right;
     gap: 80px;
-    padding: auto;
+    padding: 10px;
 }
 
 .user-data {
@@ -67,6 +67,7 @@ body {
     object-position: -90% -85%;
     align-content: center;
     justify-content: right;
+    
 } 
 .user-data:hover {
     cursor: pointer;
