@@ -64,9 +64,7 @@ body {
     object-fit: cover;
     object-position: -90% -85%;
     align-content: flex-start;
-    justify-content: right;
-    margin-top: 10px;
-    
+    justify-content: right;    
 } 
 .user-data:hover {
     cursor: pointer;
