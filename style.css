@@ -62,7 +62,7 @@ body {
     transform: scale(1.8);
     object-fit: cover;
     object-position: -90% -85%;
-    align-content: flex-start;
+    align-content:space-between;
     justify-content: right;    
 } 
 .user-data:hover {
