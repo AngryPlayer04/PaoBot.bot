@@ -51,7 +51,7 @@ body {
 .user-data {
     width: 55px;
     height: 19px;
-    zoom: 1.4;
+    zoom: 2;
     object-fit: cover;
     object-position: -90% -85%;
     justify-content: right;    
