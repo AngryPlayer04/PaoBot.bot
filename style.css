@@ -45,6 +45,7 @@ body {
     transition: color 0.2s;
     color: rgb(255, 226, 188);
     border: none;
+    padding: auto;
 }
 
 
@@ -58,10 +59,8 @@ body {
 }
 
 .user-data {
-    transform: scale(1.6);
+    transform: scale(1.1);
     border-radius: 5px;
-
-
 } 
 .user-data:hover {
     cursor: pointer;
