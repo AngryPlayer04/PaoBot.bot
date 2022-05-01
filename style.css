@@ -50,8 +50,8 @@ body {
 
 .user-data {
     width: 55px;
-    height: 20px;
-    transform: scale(2.3);
+    height: 19px;
+    transform: scale(2.9);
     object-fit: cover;
     object-position: -90% -85%;
     align-content: flex-start;
