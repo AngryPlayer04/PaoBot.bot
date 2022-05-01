@@ -50,7 +50,9 @@ body {
 
 
 .user {
-    
+    width: 100%;
+    height: auto;
+    display: block;
     justify-content: right;
     padding: 10px;
 }
