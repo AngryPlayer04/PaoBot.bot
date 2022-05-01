@@ -21,7 +21,7 @@ body {
     display: flex;
     flex-direction: row;
     align-items:center;
-    justify-content: space-around;
+    justify-content: space-evenly;
     padding: 10px;
 }
 
@@ -31,7 +31,7 @@ body {
     text-align: center;
     justify-items: flex-start;
     row-gap: 80px;
-    column-gap: 115px;
+    column-gap: 100px;
 }
 
 .cabecalho-item-menu2 {
