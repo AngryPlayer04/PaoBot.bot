@@ -27,7 +27,7 @@ body {
 
 .cabecalho-menu {
     display: flex;
-    align-items: stretch;
+    align-items: baseline;
     text-align: center;
     justify-items: center;
     row-gap: 80px;
