@@ -34,7 +34,6 @@ body {
     column-gap: 125px;
 }
 
-
 .cabecalho-item-menu2 {
     font-family: 'Roboto', sans-serif;
     color: #FCF9FC;
@@ -53,10 +52,12 @@ body {
     width: 55px;
     height: 19px;
     transform: scale(2.9);
+    zoom: 1.3;
     object-fit: cover;
     object-position: -90% -85%;
     justify-content: right;    
 } 
+
 .user-data:hover {
     cursor: pointer;
 }
