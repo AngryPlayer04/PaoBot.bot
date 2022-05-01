@@ -48,11 +48,10 @@ body {
     border: none;
 }
 
-
 .user-data {
     width: 115px;
     height: 40px;
-    transform: scale(1.4);
+    transform: scale(1.6);
     object-fit: cover;
     object-position: -90% -85%;
     align-content: flex-start;
