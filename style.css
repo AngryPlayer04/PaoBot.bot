@@ -65,7 +65,7 @@ body {
     border-radius: 5px;
     object-fit: cover;
     object-position: -90% -85%;
-    align-content: center;
+    align-content: flex-start;
     justify-content: right;
     
 } 
