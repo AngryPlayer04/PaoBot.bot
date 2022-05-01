@@ -50,8 +50,7 @@ body {
 
 
 .user {
-    display: flex;
-    flex-direction: row;
+    display: block;
     align-items: center;
     justify-content: right;
     gap: 80px;
