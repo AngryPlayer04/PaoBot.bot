@@ -30,7 +30,7 @@ body {
     align-items: center;
     text-align: center;
     justify-items: flex-start;
-    row-gap: 80px;
+    row-gap: 200px;
     column-gap: 32px;
 }
 
