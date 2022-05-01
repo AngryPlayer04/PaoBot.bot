@@ -49,8 +49,8 @@ body {
 }
 
 .user-data {
-    width: 130px;
-    height: 44px;
+    width: 120px;
+    height: 35px;
     zoom: 2;
     object-fit: cover;
     object-position: -90% -85%;
