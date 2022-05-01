@@ -61,7 +61,7 @@ body {
     height: 45px;
     transform: scale(1.6);
     object-fit: cover;
-    object-position: -90% -82%;
+    object-position: -90% -80%;
     align-content: flex-start;
     justify-content: right;    
 } 
