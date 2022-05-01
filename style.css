@@ -62,8 +62,7 @@ body {
     height: 45px;
     transform: scale(1.6);
     border-radius: 5px;
-    object-fit: cover;
-    object-position: -90% -85%;
+
 
 } 
 .user-data:hover {
