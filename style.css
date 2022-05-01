@@ -39,13 +39,13 @@ body {
     color: #FCF9FC;
     font-weight: 300;
     font-size: 24px;
+    padding: auto;
 }
 .cabecalho-item-menu2:hover {
     -webkit-transition: color 0.1s;
     transition: color 0.2s;
     color: rgb(255, 226, 188);
     border: none;
-    padding: auto;
 }
 
 
@@ -55,12 +55,14 @@ body {
     align-items: center;
     justify-content: right;
     gap: 80px;
-    padding: 10px;
+    padding: auto;
 }
 
 .user-data {
     transform: scale(1.1);
     border-radius: 5px;
+    align-content: center;
+    justify-content: right;
 } 
 .user-data:hover {
     cursor: pointer;
