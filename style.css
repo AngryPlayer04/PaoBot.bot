@@ -31,7 +31,7 @@ body {
     text-align: center;
     justify-items: center;
     row-gap: 80px;
-    column-gap: 100px;
+    column-gap: 80px;
 }
 
 .cabecalho-item-menu2 {
@@ -54,7 +54,7 @@ body {
     zoom: 2;
     object-fit: cover;
     object-position: -95% -34%;
-    justify-content: right;    
+    justify-content: center;    
     align-self: flex-start;
 } 
 
