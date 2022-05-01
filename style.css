@@ -49,16 +49,9 @@ body {
 }
 
 
-.user {
-    display: block;
-    align-items: flex-start;
-    justify-content: right;
-    padding: 15px;
-}
-
 .user-data {
     width: 170px;
-    height: 45px;
+    height: 80px;
     
     object-fit: cover;
     object-position: -90% -85%;
