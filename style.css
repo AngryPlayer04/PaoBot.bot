@@ -19,8 +19,9 @@ body {
 .cabecalho {
     background: #E8BB6A;
     display: flex;
+    text-align: center;
     flex-direction: row;
-    align-items:center;
+    align-items: center;
     justify-content: space-around;
     padding: 10px;
 }
