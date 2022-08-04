@@ -95,7 +95,7 @@ body {
     
 }
 
-.conteudo-principal-escrito-botao-2 {
+.conteudo-principal-escrito-botao2 {
     background-color: #D36500;
     width: 180px;
     height: 60px;
@@ -116,7 +116,7 @@ body {
     background-color: rgba(236, 214, 196, 0.53);
 }
 
-.conteudo-principal-escrito-botao-2:hover {
+.conteudo-principal-escrito-botao2:hover {
     background-color: rgba(236, 214, 196, 0.53);
 }
 
