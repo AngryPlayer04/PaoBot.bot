@@ -71,15 +71,19 @@ body {
     font-weight: 400;
     font-size: 64px;
     color: #471A01;
+    display: flex;
+    flex-direction: column;
 }
+
 .conteudo-principal-escrito-subtitulo {
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
     font-size: 24px;
     color: #471A01;
+    display: flex;
 }
 .conteudo-principal-escrito-botao {
-    background-color: #D36500;
+    background-color: #ff8411;
     width: 180px;
     height: 60px;
     border: none;
@@ -92,11 +96,12 @@ body {
     text-align: center;
     text-decoration: none;
     cursor: pointer;
+    transition: 0.2s;
     
 }
 
 .conteudo-principal-escrito-botao2 {
-    background-color: #D36500;
+    background: #5865f2;
     width: 180px;
     height: 60px;
     border: none;
@@ -105,19 +110,23 @@ body {
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
     font-size: 24px;
-    color: #471A01;
+    color: #ffffff;
     text-align: center;
-    text-decoration: none;
     cursor: pointer;
-    
+    transition: 0.2s;
 }
 
 .conteudo-principal-escrito-botao:hover {
     background-color: rgba(236, 214, 196, 0.53);
+    width: 198px;
 }
 
 .conteudo-principal-escrito-botao2:hover {
-    background-color: rgba(236, 214, 196, 0.53);
+    background: url(discord.gif);
+    background-size: contain;
+    color: #ffffff00;
+    width: 198px;
+    
 }
 
 .conteudo-secundario {
