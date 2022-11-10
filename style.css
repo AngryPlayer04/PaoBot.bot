@@ -141,6 +141,15 @@ body {
     gap: 15px;
     margin-top: 48px;
 }
+.conteudo-secundario-titulo {
+    border-top: 0.6px solid #6d3909;
+    padding-top: 48px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 26px;
+    color: #471A01;
+    margin-bottom: 16px;
+}
 
 .accordion-button {
     background: #ff8411;
