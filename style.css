@@ -5,16 +5,16 @@
     padding: 0%;
     box-sizing: border-box;
     text-decoration: none;
+    background-color: #CB6E00;
+    background-image: radial-gradient(circle at top right,
+            #FFFBA6,
+            #ff8d02 60%);
 
 
 }
 
 body {
     font-size: 100%;
-    background-color: #CB6E00;
-    background-image: radial-gradient(circle at top right,
-            #FFFBA6,
-            #ff8d02 60%);
 }
 
 .cabecalho {
