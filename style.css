@@ -41,7 +41,7 @@ body {
     height: 100px;
     zoom: 5;
     object-fit: cover;
-    object-position: -95% -34%;
+    object-position: -95% -50%;
     justify-content: center;
     align-self: flex-start;
 }
