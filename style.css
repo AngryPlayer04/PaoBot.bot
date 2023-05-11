@@ -38,7 +38,7 @@ body {
 
 .user-data {
     width: 180px;
-    height: 75px;
+    height: 100px;
     zoom: 5;
     object-fit: cover;
     object-position: -95% -34%;
