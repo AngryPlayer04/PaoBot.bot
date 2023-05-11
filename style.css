@@ -39,7 +39,7 @@ body {
 .user-data {
     width: 180px;
     height: 75px;
-    zoom: 2;
+    zoom: 5;
     object-fit: cover;
     object-position: -95% -34%;
     justify-content: center;
