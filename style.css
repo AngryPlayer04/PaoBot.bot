@@ -5,25 +5,19 @@
     padding: 0%;
     box-sizing: border-box;
     text-decoration: none;
-
-
 }
 
 body {
     font-size: 100%;
-    
+    background: radial-gradient(circle at top right,#FFFBA6,#ff8d02 60%);
+    width: auto;
+    margin: auto;
 }
-
-.tudo{
-    background-image: radial-gradient(circle at top right,#FFFBA6,#ff8d02 60%);
-    
-
-}
-
 .cabecalho {
     background: #E8BB6A;
     display: flex;
     padding: 10px;
+    
 }
 
 .cabecalho-menu {
@@ -34,8 +28,9 @@ body {
 
 
 .user-data {
-    width: 332px;
-    height: 66px;
+    width: 170px;
+    height: 35px;
+    zoom: 1.7;
     object-fit: cover;
     object-position: 100% 1.5%;
     justify-content: center;
@@ -148,7 +143,7 @@ body {
 
 .accordion{
     width: 80%;
-    
+    margin: auto;
 }
 
 #accordionComandos{
@@ -197,9 +192,7 @@ body {
     display: flex;
     width: 80%;
     height: 350px;
-    border: none;
     border-radius: 10px;
-    padding: none;
     margin-bottom: 80px;
     box-shadow: 5px 5px 25px 1px #202020;
 }
