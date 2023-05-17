@@ -15,33 +15,26 @@ body {
 }
 
 .tudo{
-    background-image: radial-gradient(circle at top right,
-            #FFFBA6,
-            #ff8d02 60%);
+    background-image: radial-gradient(circle at top right,#FFFBA6,#ff8d02 60%);
+    
+
 }
 
 .cabecalho {
     background: #E8BB6A;
     display: flex;
-    text-align: center;
-    flex-direction: row;
-    align-items: stretch;
-    justify-content: space-around;
     padding: 10px;
 }
 
 .cabecalho-menu {
     display: flex;
-    align-items: center;
-    text-align: center;
-    justify-items: center;
     row-gap: 40px;
     column-gap: 40px;
 }
 
 
 .user-data {
-    width: 160px;
+    width: 332px;
     height: 66px;
     object-fit: cover;
     object-position: 100% 1.5%;
@@ -61,9 +54,10 @@ body {
 
 .conteudo-principal {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     align-items: center;
     justify-content: space-around;
+    margin: 70px 0px;
 }
 
 .conteudo-principal-escrito {
@@ -75,22 +69,21 @@ body {
 .conteudo-principal-escrito-titulo {
     font-family:'Mochiy Pop P One', sans-serif;
     font-weight: 400;
-    font-size: 300%;
+    font-size: 450%;
     color: #471A01;
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding: 20px;
 }
 
-.conteudo-principal-escrito-subtitulo {
-    font-family: 'Roboto', sans-serif;
-    font-weight: 400;
-    font-size: 24px;
-    color: #471A01;
-    display: flex;
+.botoes{
+    padding: 10px;
+    gap: 20px;
+    margin-top: 30px;
 }
 
-.conteudo-principal-escrito-botao {
+.botao1 {
     background-color: #ff8411;
     width: 180px;
     height: 60px;
@@ -105,10 +98,10 @@ body {
     text-decoration: none;
     cursor: pointer;
     transition: 0.2s;
-
+    margin-right: 20px;
 }
 
-.conteudo-principal-escrito-botao2 {
+.botao2 {
     background: #5865f2;
     width: 180px;
     height: 60px;
@@ -142,7 +135,6 @@ body {
     flex-direction: column;
     align-items: center;
     gap: 15px;
-    margin-top: 48px;
 }
 .conteudo-secundario-titulo {
     border-top: 0.6px solid #6d3909;
@@ -151,13 +143,22 @@ body {
     font-weight: 400;
     font-size: 26px;
     color: #471A01;
-    margin-bottom: 16px;
+    margin-bottom: 50px;
+}
+
+.accordion{
+    width: 80%;
+    
+}
+
+#accordionComandos{
+    box-shadow: -4px -4px 25px 1px #7a3b00;
 }
 
 .accordion-button {
     background: #ff8411;
     font-family: 'Roboto', sans-serif;
-
+    
 }
 
 .accordion-button:not(.collapsed) {
@@ -194,11 +195,11 @@ body {
 
 .trello {
     display: flex;
-    width: 95%;
+    width: 80%;
     height: 350px;
     border: none;
     border-radius: 10px;
     padding: none;
-
-
+    margin-bottom: 80px;
+    box-shadow: 5px 5px 25px 1px #202020;
 }
