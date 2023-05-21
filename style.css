@@ -10,8 +10,6 @@
 body {
     font-size: 100%;
     background: radial-gradient(circle at top right,#FFFBA6,#ff8d02 60%);
-    width: auto;
-    margin: auto;
 }
 .cabecalho {
     background: #E8BB6A;
