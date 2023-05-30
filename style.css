@@ -5,32 +5,43 @@
     padding: 0%;
     box-sizing: border-box;
     text-decoration: none;
+
+
 }
 
 body {
     font-size: 100%;
-    background: radial-gradient(circle at top right,#FFFBA6,#ff8d02 60%);
+    background-image: radial-gradient(circle at top right,
+            #FFFBA6,
+            #ff8d02 60%);
 }
+
 .cabecalho {
     background: #E8BB6A;
     display: flex;
+    text-align: center;
+    flex-direction: row;
+    align-items: stretch;
+    justify-content: space-around;
     padding: 10px;
-    
 }
 
 .cabecalho-menu {
     display: flex;
-    row-gap: 40px;
-    column-gap: 40px;
+    align-items: center;
+    text-align: center;
+    justify-items: center;
+    row-gap: 80px;
+    column-gap: 100px;
 }
 
 
 .user-data {
-    width: 170px;
+    width: 120px;
     height: 35px;
-    zoom: 1.7;
+    zoom: 2;
     object-fit: cover;
-    object-position: 100% 1.5%;
+    object-position: -95% -34%;
     justify-content: center;
     align-self: flex-start;
 }
@@ -47,10 +58,9 @@ body {
 
 .conteudo-principal {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
     justify-content: space-around;
-    margin: 70px 0px;
 }
 
 .conteudo-principal-escrito {
@@ -62,19 +72,22 @@ body {
 .conteudo-principal-escrito-titulo {
     font-family:'Mochiy Pop P One', sans-serif;
     font-weight: 400;
-    font-size: 450%;
+    font-size: 300%;
     color: #471A01;
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 20px;
 }
 
-.botoes{
+.conteudo-principal-escrito-subtitulo {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    color: #471A01;
     display: flex;
 }
 
-.botao1 {
+.conteudo-principal-escrito-botao {
     background-color: #ff8411;
     width: 180px;
     height: 60px;
@@ -89,10 +102,10 @@ body {
     text-decoration: none;
     cursor: pointer;
     transition: 0.2s;
-    margin-right: 10px;
+
 }
 
-.botao2 {
+.conteudo-principal-escrito-botao2 {
     background: #5865f2;
     width: 180px;
     height: 60px;
@@ -126,6 +139,7 @@ body {
     flex-direction: column;
     align-items: center;
     gap: 15px;
+    margin-top: 48px;
 }
 .conteudo-secundario-titulo {
     border-top: 0.6px solid #6d3909;
@@ -134,22 +148,13 @@ body {
     font-weight: 400;
     font-size: 26px;
     color: #471A01;
-    margin-bottom: 50px;
-}
-
-.accordion {
-    width: 80%;
-    margin: auto;
-}
-
-#accordionComandos{
-    box-shadow: -4px -4px 25px 1px #7a3b00;
+    margin-bottom: 16px;
 }
 
 .accordion-button {
     background: #ff8411;
     font-family: 'Roboto', sans-serif;
-    
+
 }
 
 .accordion-button:not(.collapsed) {
@@ -186,9 +191,11 @@ body {
 
 .trello {
     display: flex;
-    width: 80%;
+    width: 95%;
     height: 350px;
+    border: none;
     border-radius: 10px;
-    margin-bottom: 80px;
-    box-shadow: 5px 5px 25px 1px #202020;
+    padding: none;
+
+
 }
