@@ -114,7 +114,7 @@ body {
 }
 
 .conteudo-principal-escrito-botao2:hover {
-    background: url(discord.gif);
+    background: url(imagens/discord.gif);
     background-size: contain;
     color: #ffffff00;
     width: 198px;
