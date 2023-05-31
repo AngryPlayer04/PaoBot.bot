@@ -57,6 +57,7 @@ body {
 }
 
 .conteudo-principal {
+    margin: auto;
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -64,6 +65,7 @@ body {
 }
 
 .conteudo-principal-escrito {
+    margin: auto;
     gap: 32px;
     display: flex;
     flex-direction: column;
@@ -151,6 +153,10 @@ body {
     color: #471A01;
     margin-bottom: 16px;
 }
+.accordion {
+    margin-left: 20%;
+    margin-right: 20%;
+}
 
 .accordion-button {
     background: #ff8411;
@@ -172,7 +178,8 @@ body {
 }
 
 .rodape {
-
+    margin-left: 19%;
+    margin-right: 19%;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -192,8 +199,7 @@ body {
 
 .trello {
     display: flex;
-    width: 95%;
-    height: 350px;
+    
     border: none;
     border-radius: 10px;
     padding: none;
