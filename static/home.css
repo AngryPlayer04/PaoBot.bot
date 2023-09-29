@@ -35,18 +35,37 @@ body {
     column-gap: 100px;
 }
 
-
-.user-data {
-    width: 120px;
-    height: 35px;
-    zoom: 2;
-    object-fit: cover;
-    object-position: -95% -34%;
-    justify-content: center;
-    align-self: flex-start;
+.comandos-texto{
+    text-decoration: none;
+    color: #471A01;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
 }
 
-.user-data:hover {
+.user{
+    display: flex;
+    flex-direction: row;
+}
+
+.avatar{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    display: flex;
+}
+
+.user-texto {
+    padding: 0 0 0 15px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    color: #471A01;
+    display: flex;
+    text-decoration: none;
+}
+
+.user:hover {
     cursor: pointer;
 }
 
@@ -130,7 +149,7 @@ body {
 }
 
 .conteudo-principal-escrito-botao2:hover {
-    background: url(discord.gif);
+    background: url(/static/imagens/discord.gif);
     background-size: contain;
     color: #ffffff00;
     width: 198px;
@@ -141,7 +160,6 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 15px;
     margin-top: 48px;
 }
 .conteudo-secundario-titulo {
@@ -154,8 +172,8 @@ body {
     margin-bottom: 16px;
 }
 .accordion {
-    margin-left: 20%;
-    margin-right: 20%;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
 .accordion-button {
@@ -178,8 +196,7 @@ body {
 }
 
 .rodape {
-    margin-left: 19%;
-    margin-right: 19%;
+    
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -199,10 +216,8 @@ body {
 
 .trello {
     display: flex;
-    
     border: none;
     border-radius: 10px;
-    padding: none;
-
-
+    width: 80%;
+    height: 500px;
 }
