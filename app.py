@@ -32,7 +32,7 @@ def avatar():  # sourcery skip: hoist-statement-from-loop, inline-immediately-re
         response = requests.request("GET", reqUrl, data=payload,  headers=headersList).json()
         hashav = response['avatar']
         return hashav
-        event.wait(60)
+        event.wait(250)
 
 
 @app.route('/')
