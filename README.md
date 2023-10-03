@@ -2,7 +2,7 @@
 ## Landing page do PãoBot
 
 
-### https://paobot.netlify.app/
+### https://paobot.discloudapp.com/
 
 
 
