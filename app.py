@@ -5,7 +5,7 @@ import threading
 from threading import Thread
 from functools import partial
 from waitress import serve
-
+import asyncio
 
 event = threading.Event()
 #user_id = '319963626108878848'
@@ -20,7 +20,7 @@ reqUrl = "https://discord.com/api/v10/users/319963626108878848"
 
 
 
-def avatar():  
+async def avatar():  
     
 
     while True:
@@ -36,7 +36,7 @@ def avatar():
         response = requests.request("GET", reqUrl, data=payload,  headers=headersList).json()
         hashav = response['avatar']
         return hashav
-        event.wait(500)
+        asyncio.sleep(500)
 
 
 @app.route('/')
