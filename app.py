@@ -20,7 +20,7 @@ reqUrl = "https://discord.com/api/v10/users/319963626108878848"
 
 
 
-async def avatar():  
+def avatar():  
     
 
     while True:
