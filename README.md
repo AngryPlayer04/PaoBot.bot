@@ -2,7 +2,7 @@
 ## Landing page do PãoBot
 
 
-### https://paobot.discloudapp.com/
+### https://paobot.discloud.app/
 
 
 
