@@ -36,7 +36,7 @@ def avatar():
         response = requests.request("GET", reqUrl, data=payload,  headers=headersList).json()
         hashav = response['avatar']
         return hashav
-        event.wait(250)
+        event.wait(500)
 
 
 @app.route('/')
